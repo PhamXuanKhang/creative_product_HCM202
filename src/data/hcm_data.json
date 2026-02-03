@@ -111,8 +111,8 @@
       "year": 1906,
       "location": "Trường Quốc Học Huế",
       "coordinates": [
-        16.4600447,
-        107.5807826
+        16.4755189,
+        107.5805452
       ],
       "eventMeta": "Nguyễn Tất Thành lại theo cha vào Huế, thoạt đầu học trường Pháp - Việt, sau học trường Quốc học Huế",
       "eventName": "Nguyễn Tất Thành lại theo cha vào Huế, thoạt đầu học trường Pháp - Việt, sau học trường Quốc học Huế",
@@ -509,7 +509,7 @@
       "id": 21,
       "phase": 3,
       "year": "1924",
-      "location": "Moscow, Liên Xô",
+      "location": "Moskva, Liên Xô",
       "coordinates": [
         55.759325461913626,
         37.63929582115238
@@ -563,29 +563,107 @@
       "__comment": "TEMPLATE GRID: Dùng hiển thị nhiều góc độ. 'description' là văn bản tổng quát, 'mediaUrl' là mảng nhiều ảnh để hiện dạng lưới (Bento Grid).",
       "id": 23,
       "phase": 3,
-      "year": 1927,
-      "location": "Châu Âu",
+      "year": "15-6-1927",
+      "location": "Moskva, Liên Xô",
       "coordinates": [
-     47.5534469,1.0371898
+        55.759325461913626,
+        37.63929582115238
       ],
-      "eventMeta": "Bác Hồ trở lại Châu Âu",
-      "eventName": "Bác Hồ trở lại Châu Âu",
-      "description": "Mùa hè năm 1927, Nguyễn Ái Quốc rời Trung Quốc đi Liên Xô, sau đó đi Đức (11/1927) rồi bí mật sang Pháp, đến nước Bỉ dự cuộc họp của Đại hội đồng liên đoàn chống đế quốc (12/1927), rồi quay lại Đức, đi Thụy Sỹ, sang Italia. Tháng 7/1928, Nguyễn Ái Quốc tới Xiêm (Thái Lan), rồi trở lại Trung Quốc vào cuối năm 1929.",
+      "eventMeta": " Làm việc trong Quốc tế cộng sản",
+      "eventName": " Làm việc trong Quốc tế cộng sản",
+      "description": "Nguyễn Ái Quốc về đến Mátxcơva. Người làm việc trong Quốc tế cộng sản (QTCS)",
       "mediaUrl": [
-        "https://media.vietnamplus.vn/images/c85de7563ed347cad2bfc202c76ef76759661e5195548c3bf7350fbc598a773dbbeab62d0cc62edb06c5c22a3607a235e4b55680e50f6896e93b8e9e7a8191a3cdb57feb901aea868e56e8a402356a73/ttxvn-theo-chan-bac-tai-milan-italy2.jpg"
+        "https://cdn.tienphong.vn/images/b6038bf16388252658594b6314816a1f1c98ca1f9ac629ec182e7f3cf0873bc778c33f70b0b88cc62e3039efa767958830422bbbf1c6c4285189e25356630823/bac_ho_1a_mhle.jpg"
       ],
       "sourceMedia": [
-        "Nguồn: \"TTXVN\""
+        "Nguồn: \"Báo tiên phong\""
 
       ],
       "references": [
-        "https://www.hcmcpv.org.vn/tin-tuc/hanh-trinh-di-tim-hinh-cua-nuoc-1491878832#:~:text=M%C3%B9a%20h%C3%A8%20n%C4%83m%201927%2C%20Nguy%E1%BB%85n%20%C3%81i%20Qu%E1%BB%91c%20r%E1%BB%9Di,quay%20l%E1%BA%A1i%20%C4%90%E1%BB%A9c%2C%20%C4%91i%20Th%E1%BB%A5y%20S%E1%BB%B9%2C%20sang%20Italia."
+        "https://thads.moj.gov.vn/UserControls/News/pFormPrint.aspx?UrlListProcess=/noidung/tintuc/Lists/DaiHoiDang&ListId=c7b3240f-c458-412e-9aca-fba9dae26ce0&SiteId=c14f4b03-975c-4234-893b-d5c829a196a7&ItemID=12&SiteRootID=a149ca04-0675-4959-b693-037f129a9de6",
+        "https://ct.qdnd.vn/van-hoa-xa-hoi/nhung-thang-ngay-bac-ho-o-duc-533133"
       ],
       "templateType": "normal"
     },
     {
       "__comment": "TEMPLATE GRID: Dùng hiển thị nhiều góc độ. 'description' là văn bản tổng quát, 'mediaUrl' là mảng nhiều ảnh để hiện dạng lưới (Bento Grid).",
       "id": 24,
+      "phase": 3,
+      "year": "11-1927",
+      "location": "Berlin, Đức",
+      "coordinates": [
+        52.51895520010508, 
+        13.391751033842885
+      ],
+      "eventMeta": " Thiết lập liên lạc, chờ chỉ thị mới để tìm đường trở về Đông Dương hoạt động và tham dự các hội nghị quốc tế",
+      "eventName": " Thiết lập liên lạc, chờ chỉ thị mới để tìm đường trở về Đông Dương hoạt động và tham dự các hội nghị quốc tế",
+      "description": "Người làm việc cho tạp chí Thư tín Quốc tế với bút danh là Wang. Người đã viết rất nhiều bài báo bằng tiếng Đức và tiếng Pháp. Đặc biệt, Nguyễn Ái Quốc đã viết tác phẩm 'Công tác quân sự của Đảng trong nông dân', lần đầu tiên chỉ rõ ý nghĩa to lớn của khối liên minh công-nông.",
+      "mediaUrl": [
+        "https://tennguoidepnhat.net/wp-content/uploads/2012/07/chc3a2n-dung-bc3a1c-he1bb93-edit.jpg"
+      ],
+      "sourceMedia": [
+        "Nguồn: \"Công tác quân sự của Đảng trong nông dân - tennguoidepnhat.net\""
+
+      ],
+      "references": [
+        "https://ct.qdnd.vn/van-hoa-xa-hoi/nhung-thang-ngay-bac-ho-o-duc-533133",
+        "https://thads.moj.gov.vn/UserControls/News/pFormPrint.aspx?UrlListProcess=/noidung/tintuc/Lists/DaiHoiDang&ListId=c7b3240f-c458-412e-9aca-fba9dae26ce0&SiteId=c14f4b03-975c-4234-893b-d5c829a196a7&ItemID=12&SiteRootID=a149ca04-0675-4959-b693-037f129a9de6"
+      ],
+      "templateType": "normal"
+    },
+    {
+      "__comment": "TEMPLATE GRID: Dùng hiển thị nhiều góc độ. 'description' là văn bản tổng quát, 'mediaUrl' là mảng nhiều ảnh để hiện dạng lưới (Bento Grid).",
+      "id": 25,
+      "phase": 3,
+      "year": "12-1927",
+      "location": "Bỉ",
+      "coordinates": [
+        50.56633813515979, 
+        4.471438727820786
+      ],
+      "eventMeta": " Dự phiên họp Đại hội đồng Liên đoàn chống chiến tranh đế quốc ",
+      "eventName": " Dự phiên họp Đại hội đồng Liên đoàn chống chiến tranh đế quốc ",
+      "description": "Nguyễn Ái Quốc đã đến Bruxelles (Bỉ) dự phiên họp Đại hội đồng Liên đoàn chống chiến tranh đế quốc (League Against Imperialism - LAI) từ 9-12/12/1927, theo phân công của Quốc tế Cộng sản",
+      "mediaUrl": [
+        "https://hdll.vn/FileUpload/Images/_____x____cccdcbdfbcddccff.jpg"
+      ],
+      "sourceMedia": [
+        "Nguồn: \"Trang thông tin điện tử Hội đồng Lý luận trung ương\""
+
+      ],
+      "references": [
+        "https://thads.moj.gov.vn/UserControls/News/pFormPrint.aspx?UrlListProcess=/noidung/tintuc/Lists/DaiHoiDang&ListId=c7b3240f-c458-412e-9aca-fba9dae26ce0&SiteId=c14f4b03-975c-4234-893b-d5c829a196a7&ItemID=12&SiteRootID=a149ca04-0675-4959-b693-037f129a9de6"
+      ],
+      "templateType": "normal"
+    },
+    {
+      "__comment": "TEMPLATE GRID: Dùng hiển thị nhiều góc độ. 'description' là văn bản tổng quát, 'mediaUrl' là mảng nhiều ảnh để hiện dạng lưới (Bento Grid).",
+      "id": 25,
+      "phase": 3,
+      "year": "12-1927",
+      "location": "Bỉ",
+      "coordinates": [
+        50.56633813515979, 
+        4.471438727820786
+      ],
+      "eventMeta": " Dự phiên họp Đại hội đồng Liên đoàn chống chiến tranh đế quốc ",
+      "eventName": " Dự phiên họp Đại hội đồng Liên đoàn chống chiến tranh đế quốc ",
+      "description": "Nguyễn Ái Quốc đã đến Bruxelles (Bỉ) dự phiên họp Đại hội đồng Liên đoàn chống chiến tranh đế quốc (League Against Imperialism - LAI) từ 9-12/12/1927, theo phân công của Quốc tế Cộng sản. Sau đó quay lại Đức, đi Thụy Sỹ, sang Italia. ",
+      "mediaUrl": [
+        "https://hdll.vn/FileUpload/Images/_____x____cccdcbdfbcddccff.jpg"
+      ],
+      "sourceMedia": [
+        "Nguồn: \"Trang thông tin điện tử Hội đồng Lý luận trung ương\""
+
+      ],
+      "references": [
+        "https://thads.moj.gov.vn/UserControls/News/pFormPrint.aspx?UrlListProcess=/noidung/tintuc/Lists/DaiHoiDang&ListId=c7b3240f-c458-412e-9aca-fba9dae26ce0&SiteId=c14f4b03-975c-4234-893b-d5c829a196a7&ItemID=12&SiteRootID=a149ca04-0675-4959-b693-037f129a9de6"
+      ],
+      "templateType": "normal"
+    },
+    {
+      "__comment": "TEMPLATE GRID: Dùng hiển thị nhiều góc độ. 'description' là văn bản tổng quát, 'mediaUrl' là mảng nhiều ảnh để hiện dạng lưới (Bento Grid).",
+      "id": 26,
       "phase": 3,
       "year": "7-1928",
       "location": "Thái Lan",
@@ -613,7 +691,7 @@
     },
     {
       "__comment": "TEMPLATE GRID: Dùng hiển thị nhiều góc độ. 'description' là văn bản tổng quát, 'mediaUrl' là mảng nhiều ảnh để hiện dạng lưới (Bento Grid).",
-      "id": 25,
+      "id": 27,
       "phase": 3,
       "year": "3-2-1930",
       "location": "Hương Cảng, Trung Quốc",
@@ -640,7 +718,7 @@
     },
     {
       "__comment": "TEMPLATE NORMAL: Dùng cho sự kiện đơn lẻ. 'description' là 1 đoạn văn, 'mediaUrl' là 1 link ảnh/video duy nhất.",
-      "id": 26,
+      "id": 28,
       "phase": 4,
       "year": 1931,
       "location": "Nhà tù Victoria, Hồng Kông",
@@ -663,7 +741,7 @@
     },
     {
       "__comment": "TEMPLATE NORMAL: Dùng cho sự kiện đơn lẻ. 'description' là 1 đoạn văn, 'mediaUrl' là 1 link ảnh/video duy nhất.",
-      "id": 27,
+      "id": 29,
       "phase": 4,
       "year": 1933,
       "location": "Thượng Hải, Trung Quốc",
@@ -685,13 +763,13 @@
     },
     {
       "__comment": "TEMPLATE NORMAL: Dùng cho sự kiện đơn lẻ. 'description' là 1 đoạn văn, 'mediaUrl' là 1 link ảnh/video duy nhất.",
-      "id": 28,
+      "id": 30,
       "phase": 4,
       "year": 1934,
       "location": "Moskva, Liên Xô",
       "coordinates": [
-        55.76580686672883,
-        37.651520398832616
+        55.759325461913626,
+        37.63929582115238
       ],
       "eventMeta": "Người sang Liên Xô để học tập tại Trường Quốc tế Lênin và làm nghiên cứu sinh tại Viện Nghiên cứu các vấn đề dân tộc và thuộc địa.",
       "eventName": "Người sang Liên Xô để học tập tại Trường Quốc tế Lênin và làm nghiên cứu sinh tại Viện Nghiên cứu các vấn đề dân tộc và thuộc địa.",
@@ -705,7 +783,7 @@
     },
     {
       "__comment": "TEMPLATE NORMAL: Dùng cho sự kiện đơn lẻ. 'description' là 1 đoạn văn, 'mediaUrl' là 1 link ảnh/video duy nhất.",
-      "id": 29,
+      "id": 31,
       "phase": 4,
       "year": 1938,
       "location": "Diên An, Trung Quốc",
@@ -725,7 +803,7 @@
     },
     {
       "__comment": "TEMPLATE NORMAL: Dùng cho sự kiện đơn lẻ. 'description' là 1 đoạn văn, 'mediaUrl' là 1 link ảnh/video duy nhất.",
-      "id": 30,
+      "id": 32,
       "phase": 4,
       "year": 1938,
       "location": "Quế Lâm (Quảng Tây), Trung Quốc",
@@ -745,7 +823,7 @@
     },
     {
       "__comment": "TEMPLATE NORMAL: Dùng cho sự kiện đơn lẻ. 'description' là 1 đoạn văn, 'mediaUrl' là 1 link ảnh/video duy nhất.",
-      "id": 31,
+      "id": 33,
       "phase": 4,
       "year": 1939,
       "location": "Quý Dương, Trung Quốc",
@@ -765,7 +843,7 @@
     },
     {
       "__comment": "TEMPLATE NORMAL: Dùng cho sự kiện đơn lẻ. 'description' là 1 đoạn văn, 'mediaUrl' là 1 link ảnh/video duy nhất.",
-      "id": 32,
+      "id": 34,
       "phase": 4,
       "year": 1940,
       "location": "Vân Nam, Trung Quốc",
@@ -785,7 +863,7 @@
     },
     {
       "__comment": "TEMPLATE NORMAL: Dùng cho sự kiện đơn lẻ. 'description' là 1 đoạn văn, 'mediaUrl' là 1 link ảnh/video duy nhất.",
-      "id": 33,
+      "id": 35,
       "phase": 4,
       "year": 1941,
       "location": "Tĩnh Tây, Trung Quốc",
@@ -805,7 +883,7 @@
     },
     {
       "__comment": "TEMPLATE GRID: Dùng hiển thị nhiều góc độ. 'description' là văn bản tổng quát, 'mediaUrl' là mảng nhiều ảnh để hiện dạng lưới (Bento Grid).",
-      "id": 34,
+      "id": 36,
       "phase": 5,
       "year": 1941,
       "location": "Hang Cốc Bó, Pác Bó, Cao Bằng",
@@ -832,7 +910,7 @@
     },
     {
       "__comment": "TEMPLATE GRID: Dùng hiển thị nhiều góc độ. 'description' là văn bản tổng quát, 'mediaUrl' là mảng nhiều ảnh để hiện dạng lưới (Bento Grid).",
-      "id": 35,
+      "id": 37,
       "phase": 5,
       "year": 1945,
       "location": "Quảng Trường Ba Đình, Hà Nội",
@@ -856,7 +934,7 @@
     },
     {
       "__comment": "TEMPLATE GRID: Dùng hiển thị nhiều góc độ. 'description' là văn bản tổng quát, 'mediaUrl' là mảng nhiều ảnh để hiện dạng lưới (Bento Grid).",
-      "id": 36,
+      "id": 38,
       "phase": 5,
       "year": 1946,
       "location": "Làng Vạn Phúc, Hà Đông, Hà Nội",
@@ -880,7 +958,7 @@
     },
     {
       "__comment": "TEMPLATE GRID: Dùng hiển thị nhiều góc độ. 'description' là văn bản tổng quát, 'mediaUrl' là mảng nhiều ảnh để hiện dạng lưới (Bento Grid).",
-      "id": 37,
+      "id": 39,
       "phase": 5,
       "year": 1951,
       "location": "Chiến khu Việt Bắc",
@@ -904,7 +982,7 @@
     },
     {
       "__comment": "TEMPLATE GRID: Dùng hiển thị nhiều góc độ. 'description' là văn bản tổng quát, 'mediaUrl' là mảng nhiều ảnh để hiện dạng lưới (Bento Grid).",
-      "id": 38,
+      "id": 40,
       "phase": 5,
       "year": 1954,
       "location": "Hà Nội",
@@ -928,7 +1006,7 @@
     },
     {
       "__comment": "TEMPLATE GRID: Dùng hiển thị nhiều góc độ. 'description' là văn bản tổng quát, 'mediaUrl' là mảng nhiều ảnh để hiện dạng lưới (Bento Grid).",
-      "id": 39,
+      "id": 41,
       "phase": 5,
       "year": 1969,
       "location": "Nhà 67",
