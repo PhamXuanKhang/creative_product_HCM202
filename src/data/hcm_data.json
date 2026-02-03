@@ -637,31 +637,6 @@
     },
     {
       "__comment": "TEMPLATE GRID: Dùng hiển thị nhiều góc độ. 'description' là văn bản tổng quát, 'mediaUrl' là mảng nhiều ảnh để hiện dạng lưới (Bento Grid).",
-      "id": 25,
-      "phase": 3,
-      "year": "12-1927",
-      "location": "Bỉ",
-      "coordinates": [
-        50.56633813515979, 
-        4.471438727820786
-      ],
-      "eventMeta": " Dự phiên họp Đại hội đồng Liên đoàn chống chiến tranh đế quốc ",
-      "eventName": " Dự phiên họp Đại hội đồng Liên đoàn chống chiến tranh đế quốc ",
-      "description": "Nguyễn Ái Quốc đã đến Bruxelles (Bỉ) dự phiên họp Đại hội đồng Liên đoàn chống chiến tranh đế quốc (League Against Imperialism - LAI) từ 9-12/12/1927, theo phân công của Quốc tế Cộng sản. Sau đó quay lại Đức, đi Thụy Sỹ, sang Italia. ",
-      "mediaUrl": [
-        "https://hdll.vn/FileUpload/Images/_____x____cccdcbdfbcddccff.jpg"
-      ],
-      "sourceMedia": [
-        "Nguồn: \"Trang thông tin điện tử Hội đồng Lý luận trung ương\""
-
-      ],
-      "references": [
-        "https://thads.moj.gov.vn/UserControls/News/pFormPrint.aspx?UrlListProcess=/noidung/tintuc/Lists/DaiHoiDang&ListId=c7b3240f-c458-412e-9aca-fba9dae26ce0&SiteId=c14f4b03-975c-4234-893b-d5c829a196a7&ItemID=12&SiteRootID=a149ca04-0675-4959-b693-037f129a9de6"
-      ],
-      "templateType": "normal"
-    },
-    {
-      "__comment": "TEMPLATE GRID: Dùng hiển thị nhiều góc độ. 'description' là văn bản tổng quát, 'mediaUrl' là mảng nhiều ảnh để hiện dạng lưới (Bento Grid).",
       "id": 26,
       "phase": 3,
       "year": "7-1928",
